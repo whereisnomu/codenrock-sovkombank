@@ -1,0 +1,22 @@
+{
+  "todohighlight.keywords": [
+    {
+      "text": "TODO:",
+      "color": "white",
+      "border": "1px solid white",
+      "backgroundColor": "orange"
+    },
+    {
+      "text": "NOTE:",
+      "color": "white",
+      "border": "1px solid white",
+      "backgroundColor": "red"
+    },
+    {
+      "text": "BUG:",
+      "color": "white",
+      "border": "1px solid white",
+      "backgroundColor": "red"
+    }
+  ]
+}
